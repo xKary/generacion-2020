@@ -17,4 +17,7 @@ Por favor sigue las siguientes instrucciones al modificar el repositorio:
   UNAM. Recuerda que el repositorio es público y por lo tanto que todo el mundo
   puede verlo; también recuerda que Git **nunca olvida**: todo queda
   inmortalizado en la historia del repositorio.
+* Puedes corregir las faltas de ortografía en tu nombre en el capítulo
+  correspondiente en tu archivo `.tex`, pero por favor que sí sea tu nombre
+  completo.
 * Diviértete al trabajar en tu archivo.
